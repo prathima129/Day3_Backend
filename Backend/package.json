@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "modules",
+  "scripts": {
+    "start": "node day3.js"
+  },
+  "keywords": [],
+  "author": "Prathima Shrestha",
+  "license": "ISC",
+  "description": "This is our day 3 of Backend"
+}
